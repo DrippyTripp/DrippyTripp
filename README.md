@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DrippyTripp...i.e Aarushi Dwivedi 😤
+- 🏫 Currently persueing Bachelor of Technology(JNTUH) in Computer science engineering under Cyber Security branch 
 - 👀 I’m interested in game creation along with exploring the ethical hacking grounds 🧐
 - 🌱 I’m currently learning Penetration Testing and All about Unreal engines 
 - 😄 Pronouns: She/her
